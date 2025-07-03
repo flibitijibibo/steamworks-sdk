@@ -1,12 +1,20 @@
 ================================================================
 
-Copyright © 1996-2014, Valve Corporation, All rights reserved.
+Copyright © 1996-2016, Valve Corporation, All rights reserved.
 
 ================================================================
 
 
 Welcome to the Steamworks SDK.  For documentation please see our partner 
 website at: http://partner.steamgames.com
+
+
+----------------------------------------------------------------
+v1.36 9th February 2016
+----------------------------------------------------------------
+
+ISteamController:
+* added new function TriggerRepeatedHapticPulse()
 
 
 Revision History:
